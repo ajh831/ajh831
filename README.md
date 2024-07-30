@@ -6,7 +6,7 @@
 <br>
 <a href="https://github.com/ajh831"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajh831&layout=compact&theme=nord&hide_border=true" /></a>
 
-<br>
+<br><br>
 
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
