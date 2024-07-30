@@ -4,7 +4,7 @@
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ajh831&show_icons=true&theme=nord" alt="Junghoon's github stats" />
 
 <br>
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajh831&layout=compact&theme=nord&hide_border=true" />
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajh831&layout=compact&theme=nord" />
 
 <br><br>
 
