@@ -4,7 +4,8 @@
 ![Junghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajh831&show_icons=true&theme=radical)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajh831&layout=compact)
-<a href="https://github.com/ajh831"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ajh831&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="JungHoon's github stats" /></a>
+
+<a href="https://github.com/ajh831"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ajh831&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Junghoon's github stats" /></a>
 <br>
 <a href="https://github.com/ajh831"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajh831&layout=compact&theme=nord&hide_border=true" /></a> 
 
