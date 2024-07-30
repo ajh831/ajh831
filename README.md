@@ -4,8 +4,8 @@
 ![Junghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajh831&show_icons=true&theme=radical)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajh831&layout=compact)
-
-![Junghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajh831&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<br>
+<a href="https://github.com/ajh831"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajh831&layout=compact&theme=nord&hide_border=true" /></a> 
 
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
