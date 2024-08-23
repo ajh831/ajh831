@@ -24,3 +24,10 @@
 
 ### Linux
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white) ![centos](https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white)
+
+## 💻 Project
+### Team Project
+- [치즈메이트(중고거래 플랫폼) Repo](https://github.com/ajh831/Team-cheesemate/tree/dev)
+
+### 🧸 Toy Project
+[카드 짝 맞추기 게임](https://ajh831.github.io/05.cardGame/index.html)
