@@ -27,7 +27,7 @@
 
 ## 💻 Project
 ### Team Project
-- [치즈메이트(중고거래 플랫폼) Repo](https://github.com/ajh831/Team-cheesemate/tree/dev)
+[치즈메이트(중고거래 플랫폼) Repo](https://github.com/ajh831/Team-cheesemate/tree/dev)
 
 ### 🧸 Toy Project
 [카드 짝 맞추기 게임](https://ajh831.github.io/05.cardGame/index.html)
