@@ -9,6 +9,8 @@
 <br>
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajh831&layout=compact&theme=nord" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajh831&layout=compact&theme=dracula)
+
 <br><br>
 ## 📚 Skill Set
 ### Languages
