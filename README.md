@@ -7,7 +7,11 @@
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ajh831&show_icons=true&theme=nord" alt="Junghoon's github stats" />
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/ajh831"/>
+<img
+  src="https://render.gitanimals.org/farms/ajh831"
+  width="600"
+  height="300"
+/>
 </a>
 
 <br>
