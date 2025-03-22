@@ -9,10 +9,10 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ajh831" alt="Solved.ac 프로필" />
 </p>
 
-<a href="https://github.com/devxb/gitanimals">
+<a align="center" href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/ajh831"
-  width="1200"
+  width="600"
   height="300"
 />
 </a>
