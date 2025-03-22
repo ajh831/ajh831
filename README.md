@@ -4,8 +4,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fajh831&count_bg=%2379C83D&title_bg=%23555555&icon=badoo.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
-<p align="center">
-  <img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ajh831&show_icons=true&theme=nord" alt="Junghoon's github stats" />
+<p>
+  <img style="height:170px" src="https://github-readme-stats.vercel.app/api?username=ajh831&show_icons=true&theme=nord" alt="Junghoon's github stats" />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ajh831" alt="Solved.ac 프로필" />
 </p>
 
