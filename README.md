@@ -5,10 +5,8 @@
 <br>
 
 <p align="center">
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ajh831&show_icons=true&theme=nord" alt="Junghoon's github stats" />
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ajh831)](https://solved.ac/ajh831)
+  <img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ajh831&show_icons=true&theme=nord" alt="Junghoon's github stats" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ajh831" alt="Solved.ac 프로필" />
 </p>
 
 <a href="https://github.com/devxb/gitanimals">
