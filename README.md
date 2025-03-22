@@ -12,7 +12,7 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/ajh831"
-  width="800"
+  width="750"
   height="300"
 />
 </a>
