@@ -2,8 +2,7 @@
 
 
 <br>
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=ajh831)](https://github.com/marshallku/gitgarden)
-<br>
+
 <p>
   <a href="https://github.com/ajh831">
     <img style="height:170px" src="https://github-readme-stats.vercel.app/api?username=ajh831&show_icons=true&theme=nord" alt="Junghoon's github stats" />
