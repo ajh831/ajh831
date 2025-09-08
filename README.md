@@ -1,5 +1,8 @@
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hi My name is JungHoon &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
+<br>
+
+[![Hits](https://hits.sh/github.com/ajh831.svg?color=55cdf5)](https://hits.sh/github.com/ajh831/)
 
 <br>
 
