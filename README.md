@@ -2,7 +2,7 @@
 
 <br>
 
-[![Hits](https://hits.sh/github.com/ajh831.svg?color=55cdf5)](https://hits.sh/github.com/ajh831/)
+[![Hits](https://hits.sh/github.com/ajh831.svg?view=today-total&color=55cdf5)](https://hits.sh/github.com/ajh831/)
 
 <br>
 
