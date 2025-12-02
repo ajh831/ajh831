@@ -4,28 +4,27 @@
 
 [![Hits](https://hits.sh/github.com/ajh831.svg?view=today-total&color=55cdf5)](https://hits.sh/github.com/ajh831/)
 
-<br>
+
+---
+
+## 📊 GitHub & BOJ Stats
 
 <p>
   <a href="https://github.com/ajh831">
-    <img style="height:170px" src="https://github-readme-stats.vercel.app/api?username=ajh831&show_icons=true&theme=nord" alt="Junghoon's github stats" />
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ajh831" alt="Solved.ac 프로필" />
+    <img style="height:170px" src="https://github-readme-stats.vercel.app/api?username=ajh831&show_icons=true&theme=nord" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ajh831" />
   </a>
 </p>
 
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/ajh831"
-  width="750"
-  height="300"
-/>
+  <img src="https://render.gitanimals.org/farms/ajh831" width="750" height="300" />
 </a>
 
 <br>
 <!-- <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajh831&layout=compact&theme=nord" /> -->
 
+---
 
-<br><br>
 ## 📚 Skill Set
 
 ### 🖥️ Languages
@@ -37,8 +36,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 
----
-
 ### 🚀 Frameworks & Libraries
 ![Spring](https://img.shields.io/badge/spring_framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -48,8 +45,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-
----
 
 ### 🛠️ Data Engineering
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
@@ -61,8 +56,6 @@
 ![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
----
-
 ### 🐧 Linux & DevOps
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
@@ -73,8 +66,6 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Naver Cloud](https://img.shields.io/badge/Naver_Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white)
-
----
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
