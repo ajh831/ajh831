@@ -11,8 +11,8 @@
 
 <p>
   <a href="https://github.com/ajh831">
-    <img style="height:170px" src="https://github-readme-stats.vercel.app/api?username=ajh831&show_icons=true&theme=nord" />
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ajh831" />
+    <img style="height:170px" src="https://github-readme-stats.vercel.app/api?username=ajh831&show_icons=true&theme=nord" alt="Junghoon's github stats" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ajh831" alt="Solved.ac 프로필" />
   </a>
 </p>
 
